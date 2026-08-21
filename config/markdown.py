@@ -1,0 +1,49 @@
+MARKDOWN_CONTENT = """
+        ### Formato de archivo esperado
+
+        El archivo debe contener las siguientes columnas:
+
+        - `centro_donde_se_emite_el_certificado`
+        - `tipo_de_certificado`
+        - `nro_de_certificado`
+        - `fecha_de_nacimiento`
+        - `hora`
+        - `apellidos_del_recien_nacido`
+        - `nombres_del_recien_nacido`
+        - `sexo`
+        - `peso`
+        - `talla`
+        - `1_min`
+        - `5_min`
+        - `bcg`
+        - `antih_b`
+        - `nro_de_cedula`
+        - `nro_de_historia`
+        - `apellidos_de_la_madre`
+        - `nombres_de_la_madre`
+        - `edad`
+        - `edad_gestacional`
+        - `gestas`
+        - `paras`
+        - `abortos`
+        - `controles`
+        - `tipo_de_parto`
+        - `doble`
+        - `triple`
+        - `extrahospitalario`
+        - `justificacion_de_la_cesarea`
+        - `nro_telefono`
+        - `estado`
+        - `municipio`
+        - `parroquia`
+        - `direccion`
+        - `obstetra`
+        - `id_centro`
+        - `municipio_donde_se_ubica_el_centro`
+        - `parroquia_donde_se_ubica_el_centro`
+        - `asic_donde_se_ubica_el_centro`
+        - `eje_donde_se_ubica_el_centro`
+        - `red_de_atencion`
+
+        Asegúrese de que los nombres de las columnas coincidan exactamente con los esperados.
+    """
