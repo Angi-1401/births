@@ -87,7 +87,7 @@ st.caption(
 )
 
 # -------------------------
-# EXCECUTIVE SUMMARY
+# METRICS
 # -------------------------
 
 births = calculate_births(df)

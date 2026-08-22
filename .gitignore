@@ -20,6 +20,9 @@ pip-wheel-metadata/
 data/data.csv
 data/data.xls
 data/data.xlsx
+data.csv
+data.xls
+data.xlsx
 
 # Test and coverage artifacts
 .pytest_cache/
